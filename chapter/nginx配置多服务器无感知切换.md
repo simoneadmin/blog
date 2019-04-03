@@ -1,4 +1,4 @@
-#废话不说，直接撸代码
+##废话不说，直接撸代码
 upstream tkProxy{
       server 192.168.0.1:1111 weight=2 max_fails=1 fail_timeout=10s;
       server 192.168.0.2:2222 weight=2  max_fails=1 fail_timeout=10s;
