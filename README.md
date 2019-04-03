@@ -4,4 +4,4 @@
 ## [记一次调用API遇到的问题](chapter/记一次调用API遇到的问题.md)
 ## [OAuth2.0协议流程](chapter/OAuth2.0协议流程.md)
 ## [记多个微服务同时被kill分析](chapter/记多个微服务同时被kill分析.md)
-## [ginx配置多服务器无感知切换](chapter/ginx配置多服务器无感知切换.md)
+## [nginx配置多服务器无感知切换](chapter/nginx配置多服务器无感知切换.md)
